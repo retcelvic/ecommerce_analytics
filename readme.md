@@ -1,16 +1,5 @@
 # UK E-Commerce Data Analysis
 
-<div align="center">
-  <a href="https://github.com/your-username/ecommerce_analytics/issues">
-    <img src="https://img.shields.io/github/issues/your-username/ecommerce_analytics.svg" alt="Issues">
-  </a>
-  <a href="https://github.com/your-username/ecommerce_analytics/stargazers">
-    <img src="https://img.shields.io/github/stars/your-username/ecommerce_analytics.svg" alt="Stargazers">
-  </a>
-</div>
-
-<br />
-
 This project presents a comprehensive end-to-end analysis of a UK-based e-commerce dataset containing transactions from December 2010 to December 2011. The analysis covers data cleaning, exploratory data analysis (EDA), and advanced analytical techniques to derive actionable business insights.
 
 ---
