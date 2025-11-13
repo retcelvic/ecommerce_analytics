@@ -1,17 +1,22 @@
-# E-commerce Data Analysis Case Study
+📦 E-commerce Data Analysis — End-to-End Case Study
+📘 Overview
 
-## Project Overview
+This project presents an end-to-end analysis of an e-commerce transactions dataset from a UK-based online retailer.
+The goal is to understand customer behavior, sales patterns, and product performance by applying a full analytics workflow—from raw data to insights.
 
-This project provides a comprehensive case study on analyzing e-commerce data. The primary goal is to explore a dataset of transactions from a UK-based online retailer to uncover patterns, trends, and actionable insights.
+All steps are documented in the notebook ecomerce_analytics.ipynb.
 
-The entire analysis is documented in the `ecomerce_analytics.ipynb` Jupyter notebook, which covers the full data analysis lifecycle from data cleaning to insight generation.
+🗂 Project Structure
+1. Data Configuration and Loading
+2. Data Cleaning
+3. Feature Engineering
+4. Exploratory Data Analysis (EDA)
+5. Conclusion
 
-## Project Structure
+📁 Repository Files
 
-*   **`data.csv`**: The raw dataset containing transaction records. Sourced from Kaggle: [E-Commerce Data](https://www.kaggle.com/datasets/carrie1/ecommerce-data).
-*   **`ecomerce_analytics.ipynb`**: A Jupyter notebook detailing the step-by-step analysis. Key sections include:
-    *   **Data Cleaning and Quality Assurance**: Procedures for handling missing values, correcting data types, and ensuring data integrity.
-    *   **Exploratory Data Analysis (EDA)**: In-depth investigation of sales trends, customer behavior, and top-selling products.
-    *   **Data Visualization**: Creation of interactive charts using Plotly to present findings effectively.
-    *   **Actionable Insights**: Derivation of practical, data-driven recommendations for the business.
-*   **`readme.txt`**: This file, providing an overview of the project.
+data.csv — Raw transactional dataset from Kaggle.
+
+ecomerce_analytics.ipynb — Main notebook containing the full analysis.
+
+README.md — Overview and project documentation.
