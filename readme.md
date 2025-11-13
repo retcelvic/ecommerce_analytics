@@ -1,6 +1,7 @@
 # UK E-Commerce Data Analysis
 
 This project presents a comprehensive end-to-end analysis of a UK-based e-commerce dataset containing transactions from December 2010 to December 2011. The analysis covers data cleaning, exploratory data analysis (EDA), and advanced analytical techniques to derive actionable business insights.
+Dataset available here: https://www.kaggle.com/datasets/carrie1/ecommerce-data
 
 ---
 
